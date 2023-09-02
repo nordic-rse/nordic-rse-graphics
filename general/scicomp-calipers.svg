@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="13cm"
+   height="6cm"
+   viewBox="0 0 130 60"
+   version="1.1"
+   id="svg852"
+   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   sodipodi:docname="scicomp-calipers.svg"
+   inkscape:export-filename="calipers-rse.png"
+   inkscape:export-xdpi="173.39999"
+   inkscape:export-ydpi="173.39999"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs846">
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect507"
+       is_visible="true"
+       lpeversion="1" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect451"
+       is_visible="true"
+       lpeversion="1" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.6636948"
+     inkscape:cx="197.75262"
+     inkscape:cy="162.58992"
+     inkscape:document-units="cm"
+     inkscape:current-layer="g795"
+     inkscape:document-rotation="0"
+     showgrid="true"
+     units="cm"
+     inkscape:window-width="1848"
+     inkscape:window-height="1016"
+     inkscape:window-x="72"
+     inkscape:window-y="27"
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="true"
+     inkscape:showpageshadow="2"
+     inkscape:pagecheckerboard="false"
+     inkscape:deskcolor="#d1d1d1">
+    <inkscape:grid
+       type="xygrid"
+       id="grid1415"
+       originx="0"
+       originy="0"
+       units="cm"
+       spacingx="2.5"
+       spacingy="2.5"
+       empspacing="4" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata849">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     sodipodi:insensitive="true">
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       d="m 125,17.5 v 10 H 15 v 25 c 0,0 -2.994997,-1.755837 -5,-5 -2.0050032,-3.244163 -5,-15 -5,-15 V 27.499999 17.5 H 15 V 5.0000001 C 15,5.0000001 17.5,10 17.5,15 v 2.5 z"
+       id="path862"
+       sodipodi:nodetypes="cccczcccccccc" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       d="m 27.5,32.499999 v -7.5 h 25 v 7.5 z"
+       id="path866"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       d="M 25,5.0000001 C 24.600722,5.0653599 22.5,7.5 22.5,15 c 0,1.666666 0,5 0,5 l 30,1e-6 V 15 H 25 Z"
+       id="path868"
+       sodipodi:nodetypes="csccccc" />
+    <path
+       style="fill:#ffffff;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stop-color:#000000"
+       d="m 25,52.5 v -20 h 10 v 2.500001 c 0,0 -3.116038,9.642896 -5,12.499998 C 28.116038,50.357101 25,52.5 25,52.5 Z"
+       id="path503"
+       sodipodi:nodetypes="ccccsc" />
+    <path
+       style="font-variation-settings:normal;opacity:1;vector-effect:none;fill:#ffffff;fill-opacity:1;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;-inkscape-stroke:none;stop-color:#000000;stop-opacity:1"
+       d="M 27.5,20 V 15"
+       id="path505"
+       inkscape:path-effect="#path-effect507"
+       inkscape:original-d="m 27.5,20 c 2.65e-4,-1.666402 2.65e-4,-3.333069 0,-5" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="text - scicomp"
+     style="display:none">
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="85"
+       y="40"
+       id="text1449"><tspan
+         sodipodi:role="line"
+         id="tspan1447"
+         x="85"
+         y="40"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">#SciComp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="85"
+       y="50"
+       id="text1453"><tspan
+         sodipodi:role="line"
+         id="tspan1451"
+         x="85"
+         y="50"
+         style="stroke-width:0.264583">Scientific Computing</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="85"
+       y="7.5"
+       id="text1457"><tspan
+         sodipodi:role="line"
+         x="85"
+         y="7.5"
+         style="stroke-width:0.264583"
+         id="tspan1459">The tools that power</tspan><tspan
+         sodipodi:role="line"
+         x="85"
+         y="14.485"
+         style="stroke-width:0.264583"
+         id="tspan681">your science</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="g795"
+     inkscape:label="text - rse">
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="85"
+       y="40"
+       id="text783"><tspan
+         sodipodi:role="line"
+         id="tspan781"
+         x="85"
+         y="40"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Lato;-inkscape-font-specification:'Lato, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;stroke-width:0.264583">#RSEng</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.25;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="85"
+       y="50"
+       id="text787"><tspan
+         sodipodi:role="line"
+         id="tspan785"
+         x="85"
+         y="50"
+         style="stroke-width:0.264583">Research Software Engineering</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:6.35px;line-height:1.1;font-family:Lato;-inkscape-font-specification:'Lato, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+       x="85"
+       y="7.5"
+       id="text793"><tspan
+         sodipodi:role="line"
+         x="85"
+         y="7.5"
+         style="stroke-width:0.264583"
+         id="tspan789">Better tools make</tspan><tspan
+         sodipodi:role="line"
+         x="85"
+         y="14.485"
+         style="stroke-width:0.264583"
+         id="tspan791">better science</tspan></text>
+  </g>
+</svg>
