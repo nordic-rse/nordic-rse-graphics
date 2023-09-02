@@ -38,3 +38,6 @@ make a lot of other research possible.
 ## See also
 
 - https://society-rse.org/trademark-and-logo-policy/
+  - darkest red color from soc-rse website: `590040`
+  - dark red from website: `702552` (us-rse logo: `751555`)
+  - light pink color from soc-rse logo: `c4769c`
