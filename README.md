@@ -41,3 +41,11 @@ make a lot of other research possible.
   - darkest red color from soc-rse website: `590040`
   - dark red from website: `702552` (us-rse logo: `751555`)
   - light pink color from soc-rse logo: `c4769c`
+- US-RSE logo https://github.com/USRSE/logo
+  - "The pink in the logos is `#741755`. The light gray is `#b0b5b7`."
+- NL-RSE logo https://nl-rse.org/pages/resources
+  - Dark red `#621E4B`, light red `#892A69`, black `#111827`.
+  - Font Titillium Web - Bold.
+- DE-RSE logo https://github.com/DE-RSE/logo-association/
+  - Colors darkest to lightest: `621e4b`, `#892a69`, `#b03686`,
+    `#c94fa0`
